@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\bin\Debug\myfirstvariable.exe.config
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\bin\Debug\myfirstvariable.exe
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\bin\Debug\myfirstvariable.pdb
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\obj\Debug\myfirstvariable.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\obj\Debug\myfirstvariable.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\obj\Debug\myfirstvariable.exe
+C:\Users\M & H\Desktop\programe\myfirstvariable\myfirstvariable\obj\Debug\myfirstvariable.pdb
