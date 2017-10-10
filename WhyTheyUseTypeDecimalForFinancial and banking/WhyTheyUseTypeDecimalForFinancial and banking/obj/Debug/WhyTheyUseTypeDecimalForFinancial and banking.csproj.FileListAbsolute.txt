@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\bin\Debug\WhyTheyUseTypeDecimalForFinancial and banking.exe.config
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\bin\Debug\WhyTheyUseTypeDecimalForFinancial and banking.exe
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\bin\Debug\WhyTheyUseTypeDecimalForFinancial and banking.pdb
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\obj\Debug\WhyTheyUseTypeDecimalForFinancial and banking.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\obj\Debug\WhyTheyUseTypeDecimalForFinancial and banking.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\obj\Debug\WhyTheyUseTypeDecimalForFinancial and banking.exe
+C:\Users\M & H\Desktop\Meine Programme\WhyTheyUseTypeDecimalForFinancial and banking\WhyTheyUseTypeDecimalForFinancial and banking\obj\Debug\WhyTheyUseTypeDecimalForFinancial and banking.pdb
