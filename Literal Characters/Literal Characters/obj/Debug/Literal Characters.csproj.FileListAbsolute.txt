@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\bin\Debug\Literal Characters.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\bin\Debug\Literal Characters.exe
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\bin\Debug\Literal Characters.pdb
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\obj\Debug\Literal Characters.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\obj\Debug\Literal Characters.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\obj\Debug\Literal Characters.exe
+C:\Users\M & H\Desktop\Meine Programme\Literal Characters\Literal Characters\obj\Debug\Literal Characters.pdb
