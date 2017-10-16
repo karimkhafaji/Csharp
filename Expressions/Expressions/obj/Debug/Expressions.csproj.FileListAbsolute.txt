@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\bin\Debug\Expressions.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\bin\Debug\Expressions.exe
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\bin\Debug\Expressions.pdb
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\obj\Debug\Expressions.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\obj\Debug\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\obj\Debug\Expressions.exe
+C:\Users\M & H\Desktop\Meine Programme\Expressions\Expressions\obj\Debug\Expressions.pdb
