@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\bin\Debug\Mathematical Operations Par1.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\bin\Debug\Mathematical Operations Par1.exe
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\bin\Debug\Mathematical Operations Par1.pdb
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\obj\Debug\Mathematical Operations Part1+2.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\obj\Debug\Mathematical Operations Part1+2.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\obj\Debug\Mathematical Operations Par1.exe
+C:\Users\M & H\Desktop\Meine Programme\Mathematical Operations Part1+2\Mathematical Operations Par1\obj\Debug\Mathematical Operations Par1.pdb
