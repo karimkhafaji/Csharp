@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\bin\Debug\String Type and Escape Characters.exe.config
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\bin\Debug\String Type and Escape Characters.exe
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\bin\Debug\String Type and Escape Characters.pdb
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\obj\Debug\String Type and Escape Characters.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\obj\Debug\String Type and Escape Characters.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\obj\Debug\String Type and Escape Characters.exe
+C:\Users\M & H\Desktop\Meine Programme\String Type and Escape Characters\String Type and Escape Characters\obj\Debug\String Type and Escape Characters.pdb
