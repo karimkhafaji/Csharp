@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\obj\Debug\Increments - Decrements Operations.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\obj\Debug\Increments - Decrements Operations.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\bin\Debug\Increments - Decrements Operations.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\bin\Debug\Increments - Decrements Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\bin\Debug\Increments - Decrements Operations.pdb
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\obj\Debug\Increments - Decrements Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\Increments - Decrements Operations\Increments - Decrements Operations\obj\Debug\Increments - Decrements Operations.pdb
