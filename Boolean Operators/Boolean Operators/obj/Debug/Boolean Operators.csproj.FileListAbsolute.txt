@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.exe
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\bin\Debug\Boolean Operators.pdb
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.exe
+C:\Users\M & H\Desktop\Meine Programme\Boolean Operators\Boolean Operators\obj\Debug\Boolean Operators.pdb
