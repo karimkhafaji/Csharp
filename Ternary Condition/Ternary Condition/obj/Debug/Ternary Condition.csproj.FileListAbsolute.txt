@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\bin\Debug\Ternary Condition.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\bin\Debug\Ternary Condition.exe
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\bin\Debug\Ternary Condition.pdb
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\obj\Debug\Ternary Condition.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\obj\Debug\Ternary Condition.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\obj\Debug\Ternary Condition.exe
+C:\Users\M & H\Desktop\Meine Programme\Ternary Condition\Ternary Condition\obj\Debug\Ternary Condition.pdb
