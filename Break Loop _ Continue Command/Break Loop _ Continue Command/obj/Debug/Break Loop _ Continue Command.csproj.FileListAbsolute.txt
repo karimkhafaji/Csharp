@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\obj\Debug\Break Loop _ Continue Command.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\obj\Debug\Break Loop _ Continue Command.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\bin\Debug\Break Loop _ Continue Command.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\bin\Debug\Break Loop _ Continue Command.exe
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\bin\Debug\Break Loop _ Continue Command.pdb
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\obj\Debug\Break Loop _ Continue Command.exe
+C:\Users\M & H\Desktop\Meine Programme\Break Loop _ Continue Command\Break Loop _ Continue Command\obj\Debug\Break Loop _ Continue Command.pdb
