@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\Implicit Conversion Operations.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\Implicit Conversion Operations.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\Implicit Conversion Operations.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\Implicit Conversion Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\bin\Debug\Implicit Conversion Operations.pdb
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\Implicit Conversion Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\Implicit Conversion Operations\Implicit Conversion Operations\obj\Debug\Implicit Conversion Operations.pdb
