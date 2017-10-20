@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\bin\Debug\Convert Command.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\bin\Debug\Convert Command.exe
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\bin\Debug\Convert Command.pdb
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\obj\Debug\Convert Command.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\obj\Debug\Convert Command.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\obj\Debug\Convert Command.exe
+C:\Users\M & H\Desktop\Meine Programme\Convert Command\Convert Command\obj\Debug\Convert Command.pdb
