@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\bin\Debug\Input Methods In C Sharp.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\bin\Debug\Input Methods In C Sharp.exe
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\bin\Debug\Input Methods In C Sharp.pdb
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\obj\Debug\Input Methods In C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\obj\Debug\Input Methods In C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\obj\Debug\Input Methods In C Sharp.exe
+C:\Users\M & H\Desktop\Meine Programme\Input Methods In C Sharp\Input Methods In C Sharp\obj\Debug\Input Methods In C Sharp.pdb
