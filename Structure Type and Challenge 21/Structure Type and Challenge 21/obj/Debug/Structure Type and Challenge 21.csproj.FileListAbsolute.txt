@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\Structure Type and Challenge 21.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\Structure Type and Challenge 21.exe
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\bin\Debug\Structure Type and Challenge 21.pdb
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.exe
+C:\Users\M & H\Desktop\Meine Programme\Structure Type and Challenge 21\Structure Type and Challenge 21\obj\Debug\Structure Type and Challenge 21.pdb
