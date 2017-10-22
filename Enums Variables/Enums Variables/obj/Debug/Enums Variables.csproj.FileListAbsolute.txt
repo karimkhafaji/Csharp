@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\bin\Debug\Enums Variables.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\bin\Debug\Enums Variables.exe
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\bin\Debug\Enums Variables.pdb
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\obj\Debug\Enums Variables.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\obj\Debug\Enums Variables.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\obj\Debug\Enums Variables.exe
+C:\Users\M & H\Desktop\Meine Programme\Enums Variables\Enums Variables\obj\Debug\Enums Variables.pdb
