@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\bin\Debug\String Manipulation Operations.exe.config
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\bin\Debug\String Manipulation Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\bin\Debug\String Manipulation Operations.pdb
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\obj\Debug\String Manipulation Operations.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\obj\Debug\String Manipulation Operations.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\obj\Debug\String Manipulation Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\String Manipulation Operations\String Manipulation Operations\obj\Debug\String Manipulation Operations.pdb
