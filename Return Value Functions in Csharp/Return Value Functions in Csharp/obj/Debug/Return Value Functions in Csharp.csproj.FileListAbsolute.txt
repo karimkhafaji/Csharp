@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\bin\Debug\Return Value Functions in Csharp.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\bin\Debug\Return Value Functions in Csharp.exe
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\bin\Debug\Return Value Functions in Csharp.pdb
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\obj\Debug\Return Value Functions in Csharp.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\obj\Debug\Return Value Functions in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\obj\Debug\Return Value Functions in Csharp.exe
+C:\Users\M & H\Desktop\Meine Programme\Return Value Functions in Csharp\Return Value Functions in Csharp\obj\Debug\Return Value Functions in Csharp.pdb
