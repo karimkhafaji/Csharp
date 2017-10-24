@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\bin\Debug\First Function in Csharp.exe.config
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\bin\Debug\First Function in Csharp.exe
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\bin\Debug\First Function in Csharp.pdb
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\obj\Debug\First Function in Csharp.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\obj\Debug\First Function in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\obj\Debug\First Function in Csharp.exe
+C:\Users\M & H\Desktop\Meine Programme\First Function in Csharp\First Function in Csharp\obj\Debug\First Function in Csharp.pdb
