@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\bin\Debug\Split Function with String Type.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\bin\Debug\Split Function with String Type.exe
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\bin\Debug\Split Function with String Type.pdb
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\obj\Debug\Split Function with String Type.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\obj\Debug\Split Function with String Type.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\obj\Debug\Split Function with String Type.exe
+C:\Users\M & H\Desktop\Meine Programme\Split Function with String Type\Split Function with String Type\obj\Debug\Split Function with String Type.pdb
