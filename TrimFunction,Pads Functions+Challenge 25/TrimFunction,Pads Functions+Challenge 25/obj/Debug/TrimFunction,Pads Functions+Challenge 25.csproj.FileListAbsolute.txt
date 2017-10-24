@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\bin\Debug\TrimFunction,Pads Functions+Challenge 25.exe.config
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\bin\Debug\TrimFunction,Pads Functions+Challenge 25.exe
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\bin\Debug\TrimFunction,Pads Functions+Challenge 25.pdb
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\obj\Debug\TrimFunction,Pads Functions+Challenge 25.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\obj\Debug\TrimFunction,Pads Functions+Challenge 25.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\obj\Debug\TrimFunction,Pads Functions+Challenge 25.exe
+C:\Users\M & H\Desktop\Meine Programme\TrimFunction,Pads Functions+Challenge 25\TrimFunction,Pads Functions+Challenge 25\obj\Debug\TrimFunction,Pads Functions+Challenge 25.pdb
