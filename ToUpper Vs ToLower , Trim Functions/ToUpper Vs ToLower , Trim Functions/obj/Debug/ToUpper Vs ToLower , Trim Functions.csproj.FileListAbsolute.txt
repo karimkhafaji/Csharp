@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\bin\Debug\ToUpper Vs ToLower , Trim Functions.exe.config
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\bin\Debug\ToUpper Vs ToLower , Trim Functions.exe
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\bin\Debug\ToUpper Vs ToLower , Trim Functions.pdb
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\obj\Debug\ToUpper Vs ToLower , Trim Functions.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\obj\Debug\ToUpper Vs ToLower , Trim Functions.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\obj\Debug\ToUpper Vs ToLower , Trim Functions.exe
+C:\Users\M & H\Desktop\Meine Programme\ToUpper Vs ToLower , Trim Functions\ToUpper Vs ToLower , Trim Functions\obj\Debug\ToUpper Vs ToLower , Trim Functions.pdb
