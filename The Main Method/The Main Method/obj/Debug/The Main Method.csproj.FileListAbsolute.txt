@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\obj\Debug\The Main Method.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\obj\Debug\The Main Method.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\bin\Debug\The Main Method.exe.config
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\bin\Debug\The Main Method.exe
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\bin\Debug\The Main Method.pdb
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\obj\Debug\The Main Method.exe
+C:\Users\M & H\Desktop\Meine Programme\The Main Method\The Main Method\obj\Debug\The Main Method.pdb
