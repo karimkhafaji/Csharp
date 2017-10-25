@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\obj\Debug\Struct Function.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\obj\Debug\Struct Function.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\bin\Debug\Struct Function.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\bin\Debug\Struct Function.exe
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\bin\Debug\Struct Function.pdb
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\obj\Debug\Struct Function.exe
+C:\Users\M & H\Desktop\Meine Programme\Struct Function\Struct Function\obj\Debug\Struct Function.pdb
