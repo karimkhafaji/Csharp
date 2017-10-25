@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\Variable Scope in Structures.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\Variable Scope in Structures.exe
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\bin\Debug\Variable Scope in Structures.pdb
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\Variable Scope in Structures.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\Variable Scope in Structures.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\Variable Scope in Structures.exe
+C:\Users\M & H\Desktop\Meine Programme\Variable Scope in Structures\Variable Scope in Structures\obj\Debug\Variable Scope in Structures.pdb
