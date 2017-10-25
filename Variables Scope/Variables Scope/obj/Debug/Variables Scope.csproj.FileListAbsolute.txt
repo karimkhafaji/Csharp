@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\bin\Debug\Variables Scope.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\bin\Debug\Variables Scope.exe
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\bin\Debug\Variables Scope.pdb
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\obj\Debug\Variables Scope.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\obj\Debug\Variables Scope.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\obj\Debug\Variables Scope.exe
+C:\Users\M & H\Desktop\Meine Programme\Variables Scope\Variables Scope\obj\Debug\Variables Scope.pdb
