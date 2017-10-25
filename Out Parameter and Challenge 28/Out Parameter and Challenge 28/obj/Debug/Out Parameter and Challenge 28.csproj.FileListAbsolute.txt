@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\bin\Debug\Out Parameter and Challenge 28.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\bin\Debug\Out Parameter and Challenge 28.exe
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\bin\Debug\Out Parameter and Challenge 28.pdb
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\obj\Debug\Out Parameter and Challenge 28.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\obj\Debug\Out Parameter and Challenge 28.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\obj\Debug\Out Parameter and Challenge 28.exe
+C:\Users\M & H\Desktop\Meine Programme\Out Parameter and Challenge 28\Out Parameter and Challenge 28\obj\Debug\Out Parameter and Challenge 28.pdb
