@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\bin\Debug\Break Points-DebuggingMethods.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\bin\Debug\Break Points-DebuggingMethods.exe
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\bin\Debug\Break Points-DebuggingMethods.pdb
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\obj\Debug\Break Points-DebuggingMethods.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\obj\Debug\Break Points-DebuggingMethods.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\obj\Debug\Break Points-DebuggingMethods.exe
+C:\Users\M & H\Desktop\Meine Programme\Break Points-DebuggingMethods\Break Points-DebuggingMethods\obj\Debug\Break Points-DebuggingMethods.pdb
