@@ -1,0 +1,6 @@
+C:\Users\M & H\Desktop\Meine Programme\Debugging Methods\Debugging Methods\bin\Release\Debugging Methods.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Debugging Methods\Debugging Methods\bin\Release\Debugging Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Debugging Methods\Debugging Methods\bin\Release\Debugging Methods.pdb
+C:\Users\M & H\Desktop\Meine Programme\Debugging Methods\Debugging Methods\obj\Release\Debugging Methods.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Debugging Methods\Debugging Methods\obj\Release\Debugging Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Debugging Methods\Debugging Methods\obj\Release\Debugging Methods.pdb
