@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\bin\Debug\Variables Values Monitoring.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\bin\Debug\Variables Values Monitoring.exe
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\bin\Debug\Variables Values Monitoring.pdb
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\obj\Debug\Variables Values Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\obj\Debug\Variables Values Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\obj\Debug\Variables Values Monitoring.exe
+C:\Users\M & H\Desktop\Meine Programme\Variables Values Monitoring\Variables Values Monitoring\obj\Debug\Variables Values Monitoring.pdb
