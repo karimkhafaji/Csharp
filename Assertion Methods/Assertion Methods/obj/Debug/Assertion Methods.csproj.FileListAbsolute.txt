@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\bin\Debug\Assertion Methods.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\bin\Debug\Assertion Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\bin\Debug\Assertion Methods.pdb
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\obj\Debug\Assertion Methods.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\obj\Debug\Assertion Methods.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\obj\Debug\Assertion Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Assertion Methods\Assertion Methods\obj\Debug\Assertion Methods.pdb
