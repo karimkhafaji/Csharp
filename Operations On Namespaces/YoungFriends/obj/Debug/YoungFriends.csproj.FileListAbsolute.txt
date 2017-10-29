@@ -1,0 +1,5 @@
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\YoungFriends\bin\Debug\YoungFriends.dll
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\YoungFriends\bin\Debug\YoungFriends.pdb
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\YoungFriends\obj\Debug\YoungFriends.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\YoungFriends\obj\Debug\YoungFriends.dll
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\YoungFriends\obj\Debug\YoungFriends.pdb

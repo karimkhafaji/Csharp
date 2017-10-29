@@ -1,0 +1,11 @@
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\Operations On Namespaces.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\Operations On Namespaces.exe
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\Operations On Namespaces.pdb
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\obj\Debug\Operations On Namespaces.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\obj\Debug\Operations On Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\obj\Debug\Operations On Namespaces.exe
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\obj\Debug\Operations On Namespaces.pdb
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\OldFriends.dll
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\YoungFriends.dll
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\OldFriends.pdb
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\Operations On Namespaces\bin\Debug\YoungFriends.pdb

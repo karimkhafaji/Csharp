@@ -1,0 +1,6 @@
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\OldFriends\bin\Debug\OldFriends.dll
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\OldFriends\bin\Debug\OldFriends.pdb
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\OldFriends\obj\Debug\OldFriends.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\OldFriends\obj\Debug\OldFriends.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\OldFriends\obj\Debug\OldFriends.dll
+C:\Users\M & H\Desktop\Meine Programme\Operations On Namespaces\OldFriends\obj\Debug\OldFriends.pdb
