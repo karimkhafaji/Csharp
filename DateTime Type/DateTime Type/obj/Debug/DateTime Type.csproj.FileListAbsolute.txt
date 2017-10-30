@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\bin\Debug\DateTime Type.exe.config
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\bin\Debug\DateTime Type.exe
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\bin\Debug\DateTime Type.pdb
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\obj\Debug\DateTime Type.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\obj\Debug\DateTime Type.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\obj\Debug\DateTime Type.exe
+C:\Users\M & H\Desktop\Meine Programme\DateTime Type\DateTime Type\obj\Debug\DateTime Type.pdb
