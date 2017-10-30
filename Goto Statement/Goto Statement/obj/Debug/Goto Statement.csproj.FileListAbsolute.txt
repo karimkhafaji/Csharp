@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\bin\Debug\Goto Statement.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\bin\Debug\Goto Statement.exe
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\bin\Debug\Goto Statement.pdb
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\obj\Debug\Goto Statement.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\obj\Debug\Goto Statement.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\obj\Debug\Goto Statement.exe
+C:\Users\M & H\Desktop\Meine Programme\Goto Statement\Goto Statement\obj\Debug\Goto Statement.pdb
