@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\bin\Debug\Palindrome Function.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\bin\Debug\Palindrome Function.exe
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\bin\Debug\Palindrome Function.pdb
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\obj\Debug\Palindrome Function.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\obj\Debug\Palindrome Function.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\obj\Debug\Palindrome Function.exe
+C:\Users\M & H\Desktop\Meine Programme\Palindrome Function\Palindrome Function\obj\Debug\Palindrome Function.pdb
