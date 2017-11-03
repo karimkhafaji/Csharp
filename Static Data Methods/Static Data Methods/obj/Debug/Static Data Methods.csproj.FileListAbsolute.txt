@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\bin\Debug\Static Data Methods.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\bin\Debug\Static Data Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\bin\Debug\Static Data Methods.pdb
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\obj\Debug\Static Data Methods.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\obj\Debug\Static Data Methods.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\obj\Debug\Static Data Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Static Data Methods\Static Data Methods\obj\Debug\Static Data Methods.pdb
