@@ -11,7 +11,7 @@ namespace Nested_Classes
     {
 
         public string fName = "Karim";
-        public string Address = "Eduard-Ellmauthaler Str";
+        public string Address = "Bischo";
         public void PrintValues()
         { WriteLine($"Employee Name is {fName} \nLiving at {Address}"); }
 
