@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\bin\Debug\Paratial Classes.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\bin\Debug\Paratial Classes.exe
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\bin\Debug\Paratial Classes.pdb
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\obj\Debug\Partial Classes.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\obj\Debug\Partial Classes.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\obj\Debug\Paratial Classes.exe
+C:\Users\M & H\Desktop\Meine Programme\Partial Classes\Paratial Classes\obj\Debug\Paratial Classes.pdb

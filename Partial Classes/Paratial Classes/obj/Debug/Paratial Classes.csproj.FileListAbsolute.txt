@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\bin\Debug\Paratial Classes.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\bin\Debug\Paratial Classes.exe
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\bin\Debug\Paratial Classes.pdb
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\obj\Debug\Paratial Classes.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\obj\Debug\Paratial Classes.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\obj\Debug\Paratial Classes.exe
+C:\Users\M & H\Desktop\Meine Programme\Paratial Classes\Paratial Classes\obj\Debug\Paratial Classes.pdb
