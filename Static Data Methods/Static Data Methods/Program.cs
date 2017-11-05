@@ -12,7 +12,7 @@ namespace Static_Data_Methods
         {
 
             Static_Data_and_Methods s1 = new Static_Data_and_Methods(50);
-            Static_Data_and_Methods s2 = new Static_Data_and_Methods(100);
+            
 
             // Print the current interest rate.
             Console.WriteLine("Interest Rate is: {0}", Static_Data_and_Methods.GetValue());
