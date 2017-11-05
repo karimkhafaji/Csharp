@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\bin\Debug\Static Classes.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\bin\Debug\Static Classes.exe
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\bin\Debug\Static Classes.pdb
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\obj\Debug\Static Classes.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\obj\Debug\Static Classes.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\obj\Debug\Static Classes.exe
+C:\Users\M & H\Desktop\Meine Programme\Static Classes\Static Classes\obj\Debug\Static Classes.pdb
