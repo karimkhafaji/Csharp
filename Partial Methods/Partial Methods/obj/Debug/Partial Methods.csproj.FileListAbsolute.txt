@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\bin\Debug\Partial Methods.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\bin\Debug\Partial Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\bin\Debug\Partial Methods.pdb
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\obj\Debug\Partial Methods.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\obj\Debug\Partial Methods.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\obj\Debug\Partial Methods.exe
+C:\Users\M & H\Desktop\Meine Programme\Partial Methods\Partial Methods\obj\Debug\Partial Methods.pdb
