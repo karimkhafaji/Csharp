@@ -16,6 +16,7 @@ namespace Inheritance
             myObj.PrintModel();
             myObj.PrintEngineSize();
             Console.WriteLine($"{myObj.make}");
+            Console.WriteLine($"{myObj.year}");
 
             Console.ReadKey();
         }
