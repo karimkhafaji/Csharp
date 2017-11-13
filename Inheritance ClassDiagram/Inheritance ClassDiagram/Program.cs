@@ -10,9 +10,23 @@ namespace Inheritance_ClassDiagram
     {
         static void Main(string[] args)
         {
-            Toyota myObj = new Toyota();
-            myObj.PrintEngineSize();
-            myObj.PrintModel();
+            Cars myCarsObj = new Cars();
+
+
+            Toyota myToyotaObj = new Toyota();
+            //myObj.PrintEngineSize();
+            //myObj.PrintModel();
+            // myObj.PrintEngineCapacity();
+
+            Nissan myNissanObj = new Nissan();
+            Ford myFordObj = new Ford();
+
+
+            myCarsObj.PrintMake();
+            myFordObj.PrintMake();
+            myNissanObj.PrintMake();
+            myToyotaObj.PrintMake();
+
 
             Console.ReadKey();
         }

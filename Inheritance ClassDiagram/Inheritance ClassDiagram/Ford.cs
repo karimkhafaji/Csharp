@@ -5,15 +5,10 @@ using System.Text;
 
 namespace Inheritance_ClassDiagram
 {
-    public class Toyota : Cars
+    public class Ford : Cars
     {
-        public int engineSize = 4;
-        public string make = "Toyota";
+        public string make = "Ford";
 
-        public void PrintEngineSize()
-        {
-            Console.WriteLine($"{engineSize}");
-        }
         public override void PrintMake()
         {
             Console.WriteLine($"{make}");
