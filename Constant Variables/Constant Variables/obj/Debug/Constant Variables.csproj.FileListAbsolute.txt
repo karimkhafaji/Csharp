@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\bin\Debug\Constant Variables.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\bin\Debug\Constant Variables.exe
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\bin\Debug\Constant Variables.pdb
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\obj\Debug\Constant Variables.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\obj\Debug\Constant Variables.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\obj\Debug\Constant Variables.exe
+C:\Users\M & H\Desktop\Meine Programme\Constant Variables\Constant Variables\obj\Debug\Constant Variables.pdb
