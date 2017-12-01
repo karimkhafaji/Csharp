@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\bin\Debug\Exception Filters with when keyword.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\bin\Debug\Exception Filters with when keyword.exe
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\bin\Debug\Exception Filters with when keyword.pdb
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\obj\Debug\Exception Filters with when keyword.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\obj\Debug\Exception Filters with when keyword.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\obj\Debug\Exception Filters with when keyword.exe
+C:\Users\M & H\Desktop\Meine Programme\Exception Filters with when keyword\Exception Filters with when keyword\obj\Debug\Exception Filters with when keyword.pdb
