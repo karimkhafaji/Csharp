@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\bin\Debug\Throwing a specific Exception.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\bin\Debug\Throwing a specific Exception.exe
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\bin\Debug\Throwing a specific Exception.pdb
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\obj\Debug\Throwing a specific Exception.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\obj\Debug\Throwing a specific Exception.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\obj\Debug\Throwing a specific Exception.exe
+C:\Users\M & H\Desktop\Meine Programme\Throwing a specific Exception\Throwing a specific Exception\obj\Debug\Throwing a specific Exception.pdb
