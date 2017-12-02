@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\bin\Debug\Master Parent Class.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\bin\Debug\Master Parent Class.exe
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\bin\Debug\Master Parent Class.pdb
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\obj\Debug\Master Parent Class.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\obj\Debug\Master Parent Class.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\obj\Debug\Master Parent Class.exe
+C:\Users\M & H\Desktop\Meine Programme\Master Parent Class\Master Parent Class\obj\Debug\Master Parent Class.pdb
