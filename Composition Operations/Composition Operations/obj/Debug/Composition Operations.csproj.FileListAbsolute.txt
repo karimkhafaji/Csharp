@@ -1,0 +1,7 @@
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\bin\Debug\Composition Operations.exe.config
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\bin\Debug\Composition Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\bin\Debug\Composition Operations.pdb
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\obj\Debug\Composition Operations.csprojResolveAssemblyReference.cache
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\obj\Debug\Composition Operations.csproj.CoreCompileInputs.cache
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\obj\Debug\Composition Operations.exe
+C:\Users\M & H\Desktop\Meine Programme\Composition Operations\Composition Operations\obj\Debug\Composition Operations.pdb
